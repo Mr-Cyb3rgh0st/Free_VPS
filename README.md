@@ -1,5 +1,5 @@
 <h1>Mr. Cyb3rgh0st </h1>                                                         
-# Get A Free VPS
+<h2>Get A Free VPS</h2>
 Yeah you heard it right, you can get a free vps that will have A Quad-core CPU with 16GB RAM.
 which will look something like this
 <br>
